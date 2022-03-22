@@ -8,6 +8,22 @@ Take what you can get
 Not enough to kill your fix
 Is it all worth the wait?
 To save a penny
+Are you mighty?
+Are you what you think you are?
+Shafting, scraping for an edge
+That will push you over
+Take what you can get
+Not enough to kill your fix
+Is it all worth the wait?
+To save a penny
+Are you mighty?
+Are you what you think you are?
+Shafting, scraping for an edge
+That will push you over
+Take what you can get
+Not enough to kill your fix
+Is it all worth the wait?
+To save a penny
 
 Step out
 Look up
@@ -107,14 +123,14 @@ I owe it (dues I'll pay) every day
 I'm gonna make it [x4]
 ''';
 
-const song4 = '''"Countinluiluilug Numbers"''';
-const song5 = '''"Countiuiluing Numbers"''';
-const song6 = '''"Counuiluiluiluilting Numbers"''';
-const song7 = '''"Countingiluiluil Numbers"''';
-const song8 = '''"Countingiluiluilu Numbers"''';
-const song9 = '''"Counting Numbuiluilers"''';
-const song10 = '''"Counting Nuiluiluilmbers"''';
-const song11 = '''"Counting Numiluilbers"''';
-const song12 = '''"Counting Numiluilbers"''';
-const song13 = '''"Counting Numbuiluilers"''';
-const song14 = '''"Counting Numbiluiluilers"''';
+const song4 = '''"Cgssdgsdountinluiluilug Numbers"''';
+const song5 = '''"Cgsgsdgsountiuiluing Numbers"''';
+const song6 = '''"Csdsdssdgougsdgsgsdgsdgsnsdguiluiluiluilting Numbers"''';
+const song7 = '''"Csdgousdgsdgntingiluiluil Numbers"''';
+const song8 = '''"Cdgsdgsountingiluiluilu Numbers"''';
+const song9 = '''"Cffefegsdgsdgetwetousdgsnting Numbuiluilers"''';
+const song10 = '''"fefeweewtwCounting Nuiluiluilmbers"''';
+const song11 = '''"fefettrtCounting Numiluilbers"''';
+const song12 = '''"rfeggfounting Numiluilbers"''';
+const song13 = '''"Cssefeofgfunting Numbuiluilers"''';
+const song14 = '''"sssssssssss Numbiluiluilers"''';
