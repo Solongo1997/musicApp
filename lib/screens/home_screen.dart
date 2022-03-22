@@ -32,7 +32,11 @@ class SongList extends StatelessWidget {
               print(songTitles[index]);
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => LyricsScreen()),
+                MaterialPageRoute(
+                    builder: (context) => LyricsScreen(
+                          id: index,
+                          songTitle: songTitles[index],
+                        )),
               );
             },
           ),
